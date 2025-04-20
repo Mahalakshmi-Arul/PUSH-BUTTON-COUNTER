@@ -28,3 +28,9 @@
      • LCD 16x2 display (connected to PORTD)
      • Push Button (connected to RC5)
      • Control Pins for LCD: RS – RC0, EN – RC1
+
+![Image](https://github.com/user-attachments/assets/d67351ff-dbc2-4fad-b2ec-f99b478d5dd4)
+
+![Image](https://github.com/user-attachments/assets/81e04189-216e-4fe3-a2a9-d6c981d7f54d)
+
+![Image](https://github.com/user-attachments/assets/11ba18ae-bf00-4111-b7cc-3d39983a3efc)
